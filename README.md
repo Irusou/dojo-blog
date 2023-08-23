@@ -1,5 +1,7 @@
 # A webpage to learn about react
 
+- Idea from: https://www.youtube.com/@NetNinja
+
 # Using Json server as the database
 
 - run the server with: `npx json-server --watch data/db.json --port 8000`
